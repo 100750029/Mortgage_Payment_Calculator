@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SOFE4640U_Assignment1</string>
+    <string name="next_page">Calculate my Payments</string>
+    <string name="back">Start Over</string>
+    <string name="textview1">Mortgage Principal Amount</string>
+    <string name="textview2">Interest Rate</string>
+    <string name="textview3">Amortization Period</string>
+    <string name="textview4">Payment Frequency</string>
+
+</resources>
